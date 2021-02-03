@@ -9,8 +9,8 @@ makeGIFAnimation.pyを使用して
 
 ・元画像
 
-![a](https://i.imgur.com/VLX4bez.png =400x)
+![a](https://i.imgur.com/VLX4bez.png)
 
 ・結果画像
 
-![a](https://i.imgur.com/vI60JAF.gif =400x)
+![a](https://i.imgur.com/vI60JAF.gif)
